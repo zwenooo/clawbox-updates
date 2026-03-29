@@ -1,7 +1,7 @@
 {
-  "version": "2026.03.29-local-test",
-  "bundledUrl": "https://github.com/zwenooo/clawbox-updates/releases/download/v2026.03.29-local-test/bundled-openclaw-2026.03.29-local-test.zip",
-  "bundledSha256": "a8725bec9b659bfe826177e19efa7eab49a5c00fcaa735f01164f82fa7c4d4d5",
-  "releaseNotes": "GitHub Releases smoke test for ClawBox bundled runtime",
+  "version": "2026.03.29.1",
+  "bundledUrl": "https://github.com/zwenooo/clawbox-updates/releases/download/v2026.03.29.1/bundled-openclaw-2026.03.29.1.zip",
+  "bundledSha256": "6a281ec8f949bc7f5f784acda7695f0ce7ca705c2c22ef1599b267a0df54ae30",
+  "releaseNotes": "Bundled runtime update 2026.03.29.1",
   "minAppVersion": "0.1.0"
 }
