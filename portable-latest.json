@@ -1,0 +1,22 @@
+{
+  "version": "2026.05.14.01",
+  "mode": "portable",
+  "platform": "windows",
+  "arch": "x64",
+  "channel": "stable",
+  "downloadUrl": "https://github.com/zwenooo/clawbox-updates/releases/download/v2026.05.14.01/ClawBox-Portable-windows-x64.zip",
+  "downloadSha256": "54d3b665c47f8d0c13325e1d2e2b52af4b797fcf796f6469679658d09090ea34",
+  "releaseNotes": "Portable package update 2026.05.14.01",
+  "minAppVersion": "0.1.0",
+  "packages": [
+    {
+      "mode": "portable",
+      "kind": "full",
+      "platform": "windows",
+      "arch": "x64",
+      "channel": "stable",
+      "url": "https://github.com/zwenooo/clawbox-updates/releases/download/v2026.05.14.01/ClawBox-Portable-windows-x64.zip",
+      "sha256": "54d3b665c47f8d0c13325e1d2e2b52af4b797fcf796f6469679658d09090ea34"
+    }
+  ]
+}
